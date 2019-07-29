@@ -1,0 +1,12 @@
+/**index.wxss**/
+
+ec-canvas {
+  width: 100%;
+  height: 100%;
+}
+
+.chart {
+  padding: 30px;
+  margin-left: 20px;
+  height: 260px;
+}

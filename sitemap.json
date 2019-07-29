@@ -1,0 +1,7 @@
+{
+  "desc": "关于本文件的更多信息，请参考文档 https://developers.weixin.qq.com/miniprogram/dev/framework/sitemap.html，关于在微信小程序中使用 ECharts，请参考文档https://github.com/ecomfe/echarts-for-weixin",
+  "rules": [{
+  "action": "allow",
+  "page": "*"
+  }]
+}
